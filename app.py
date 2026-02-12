@@ -6,7 +6,7 @@ from datetime import date, timedelta
 # Page is often nicer in "wide" for layout demos
 st.set_page_config(page_title="Streamlit: Layouts", page_icon="🧱", layout="wide")
 
-st.title("🧱 Streamlit Layouts")
+st.title("🧱 Hello I have changed")
 st.caption(
     "Columns, tabs, expanders, containers, and placeholders — build clean app layouts fast."
 )
